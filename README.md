@@ -1,5 +1,6 @@
 # Tools
 
+0. [클로드코드](https://code.claude.com/docs/ko/setup)
 1. [CLAUDE.md](https://github.com/multica-ai/andrej-karpathy-skills)
 2. [도메인 정의](https://github.com/mattpocock/skills?utm_source=pytorchkr&ref=pytorchkr)
 3. [하네스](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main)
