@@ -7,4 +7,5 @@
 5. [UI](https://getdesign.md/)
 6. [UI](https://stitch.withgoogle.com/)
 7. [LLM](https://openrouter.ai/)
-8. 기타: 
+8. [ERD](https://github.com/cathrynlavery/diagram-design?utm_source=pytorchkr&ref=pytorchkr)
+9. 기타: 
