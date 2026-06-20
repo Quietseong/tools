@@ -8,4 +8,4 @@
 6. [UI](https://stitch.withgoogle.com/)
 7. [LLM](https://openrouter.ai/)
 8. [ERD](https://github.com/cathrynlavery/diagram-design?utm_source=pytorchkr&ref=pytorchkr)
-9. 기타: 
+9. 기타: [에이전트서치](https://dashboard.exa.ai/home)
